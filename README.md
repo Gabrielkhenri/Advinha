@@ -1,4 +1,4 @@
-# Mago
+# Advinha
 Jogo de advinhação mágico
 <p>´
 Este é um projeto de um jogo de adivinhação que desenvolvi para praticar lógica de programação e manipulação de DOM com JavaScript e funcionalidades do github. 
